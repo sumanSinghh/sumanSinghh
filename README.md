@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Suman Singh
 
-<!--
-**sumanSinghh/sumanSinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
 
-Here are some ideas to get you started:
+🎯 Aspiring Data Analyst passionate about turning raw data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Skilled in:
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+
+📈 Currently building real-world Data Analytics projects and interactive Power BI dashboards.
+
+🌱 Currently Learning:
+- Advanced SQL
+- Data Visualization
+- Statistics
+- Machine Learning Basics
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-singh-524a9a329?)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumanSinghh)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suman_singh_2256_?igsh=MWI4eXczYWg5NXJrYw==)
+
+📧 Email: sumansinghh2256@gmail.com
+
+
+## 💻 Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode)
+
+### Data Analytics Tools
+
+- 📊 Power BI
+- 📑 Microsoft Excel
+- 🐍 Python
+- 🗄 SQL
+- 📈 Matplotlib
+- 🐼 Pandas
+- 🔢 NumPy
+
+---
+
+## 📂 Featured Projects
+
+🔹 HR Analytics Dashboard (Power BI)
+
+🔹 Superstore Sales Dashboard
+
+🔹 Data Cleaning in Excel
+
+🔹 SQL Data Analysis Projects
+
+
+⭐ Thanks for visiting my profile!
