@@ -12,6 +12,10 @@
 - Pandas
 - NumPy
 - Matplotlib
+- HTML
+- CSS
+- JavaScript
+- C & C++ Basics
 
 📈 Currently building real-world Data Analytics projects and interactive Power BI dashboards.
 
@@ -36,7 +40,7 @@
 
 ## 💻 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,excel,html,css,javascript,powerbi)
 
 ### Data Analytics Tools
 
@@ -47,6 +51,10 @@
 - 📈 Matplotlib
 - 🐼 Pandas
 - 🔢 NumPy
+-    HTML
+-    CSS
+-    JavaScript
+-    C & C++
 
 ---
 
